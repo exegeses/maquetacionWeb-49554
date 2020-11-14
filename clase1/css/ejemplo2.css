@@ -1,0 +1,12 @@
+
+body{
+    /* color de fondo,
+        color de texto,
+        familia tipográfica,
+         tamaño de tipografía
+    */
+    background-color: #e8e8e8;
+    color: #666;
+    font-family: helvetica;
+    font-size: 18px;
+}

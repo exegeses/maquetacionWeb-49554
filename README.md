@@ -18,4 +18,17 @@
     Visual Studio Code https://code.visualstudio.com/  
     Brackets http://brackets.io/  
 
+## Fórmulas  
 
+### Fórmula del HTML
+
+    <elemento atributo="valor">    
+       objeto   
+    </elemento>
+  
+### Fórmula del CSS
+
+    selector{
+        atributo: valor;
+    } 
+    
