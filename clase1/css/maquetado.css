@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;800&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Raleway, sans-serif;
+    background-color: #e8e8e8;
+}
+
+    header{
+        background-color: #e09758;
+        height: 130px;
+    }
+    nav{
+        height: 60px;
+        background-color: #bc7535;
+    }
+    main{
+        background-color: #fff;
+        min-height: 500px;
+        width: 1024px;
+        margin: auto;
+    }
+    footer{
+        background-color: #e09758;
+        height: 130px;
+    }
