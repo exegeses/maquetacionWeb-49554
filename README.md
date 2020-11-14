@@ -6,4 +6,16 @@
 > Código: 49554 |  
 > sensei: Marcos Pinardi |
 
+> Es un lenguaje de programación para la web para gestionar la estética, la presentación. 
+> A ello lo llamamos Frontend.
+
+## Requisitos de software
+
+ 1. un browser    
+ 2. un IDE o Editor de código    
+ 
+    Sublime Text 3 https://www.sublimetext.com/   
+    Visual Studio Code https://code.visualstudio.com/  
+    Brackets http://brackets.io/  
+
 
