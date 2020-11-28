@@ -1,0 +1,20 @@
+
+body{
+    background-color: #666666;
+}
+#azul, #celeste, #blanco{
+    width: 250px;
+    height: 100px;
+}
+#azul{
+    background-color: #254ecb;
+    float: left;
+}
+#celeste{
+    background-color: #25c5cb;
+    float: left;
+}
+#blanco{
+    background-color: #fff;
+    float: left;
+}
