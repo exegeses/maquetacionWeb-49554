@@ -19,9 +19,19 @@ header{
 }
 nav{
     height: 60px;
-    box-shadow: 0px 3px 3px #ccc;
-    border-bottom: 1px solid #fff;
+    box-shadow: 0px 1px 3px #ccc;
+    text-align: center;
+    padding-top: 18px;
 }
+    nav a{
+        color: #3b3b3b;
+        text-decoration: none;
+        padding: 0px 30px 12px 30px;
+    }
+    nav a:hover{
+        border-bottom: #41C7DB 3px solid;
+    }
+
 main{
     width: 960px;
     margin: auto;
