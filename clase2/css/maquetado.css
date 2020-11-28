@@ -49,16 +49,20 @@ main{
 
     #contenido{
         background-color: #e76042;
+        color: #F3E5D8;
         width: 710px;
         height: 450px;
+        padding: 0px 20px;
         margin-top: 25px;
-        display: inline-block;
+        float: left;
     }
     #promos{
         background-color: #fff;
-        width: 306px;
+        width: 314px;
         height: 450px;
-        display: inline-block;
+        padding: 0px 20px;
+        margin-top: 25px;
+        float: left;
     }
 
 footer{
