@@ -30,6 +30,19 @@ body{
 
     section{
         width: 700px;
-        margin: auto;
-        margin-top: 60px;
+        margin: 60px auto;
+    }
+    
+    #primero figure{
+        background-color: #fff;
+        width: 587px;
+        float: left;
+    }
+    #primero div{
+        background-color: #666;
+        width: 300px;
+        float: left;
+    }
+    #segundo{
+        clear: both;
     }
