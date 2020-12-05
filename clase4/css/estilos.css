@@ -7,10 +7,9 @@
     padding: 0;
 }
 body{
-    background-color: #d9d9d9;
     font-family: Raleway;
     font-weight: 600;
-    font-size: 1em;
+    font-size: 1.2em;
     color: #444;
     width: 900px;
     margin: auto;
@@ -32,17 +31,33 @@ body{
         width: 700px;
         margin: 60px auto;
     }
-    
+
     #primero figure{
-        background-color: #fff;
         width: 587px;
         float: left;
     }
+    #primero h2{
+        padding-bottom: 20px;
+    }
     #primero div{
-        background-color: #666;
-        width: 300px;
+        margin-top: 120px;
+        margin-left: 30px;
+        width: 280px;
         float: left;
     }
     #segundo{
         clear: both;
+    }
+    #segundo figure{
+        width: 508px;
+        float: left;
+    }
+    #segundo div{
+        margin-top: 60px;
+        margin-right: 30px;
+        width: 280px;
+        float: left;
+    }
+    #segundo h2{
+        padding-bottom: 20px;
     }
