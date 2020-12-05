@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    height: 140px;
+    background-color: tomato;
+    /* fijo */
+    position: fixed;
+    width: 100%;
+}
+    nav{
+        text-align: center;
+        padding-top: 60px;
+    }
+    nav a{
+        text-decoration: none;
+        color: #F3E5D8;
+        padding: 10px 25px;
+    }
+
+main{
+    min-height: 950px;
+    background-color: #c9c9c9;
+    margin: auto;
+    width: 960px;
+    padding: 160px 20px;
+}
