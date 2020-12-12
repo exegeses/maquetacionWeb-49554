@@ -61,3 +61,14 @@ body{
     #segundo h2{
         padding-bottom: 20px;
     }
+
+    hr{
+        clear: both;
+        border: none;
+        height: 20px;
+    }
+
+    footer{
+        height: 90px;
+
+    }
