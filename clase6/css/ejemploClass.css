@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;800&display=swap');
+
+body{
+    width: 960px;
+    margin: auto;
+    font-family: Raleway;
+}
+li{
+    width: 250px;
+    background-color: #a1e9c3;
+}
+#destacado{
+    padding: 25px;
+    background-color: #d7bba0;
+}
+
+.ancho300{
+    width: 300px;
+    display: inline-block;
+    background-color: #e7cfb7;
+    margin: 20px;
+    padding: 10px;
+}
+
