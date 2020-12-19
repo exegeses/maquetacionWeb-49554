@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;800&display=swap');
+
+body{
+    font-family: Raleway;
+    font-weight: 600;
+}
+main{
+    min-height: 400px;
+}
+
+@media (max-width: 574px){
+
+    main{
+        background-color: #e8e8e8;
+    }
+    main article{
+        /* ocupa todo ancho (1 columna) */
+    }
+}
+@media (min-width: 575px){
+
+    main{
+        background-color: #a8a8a8;
+    }
+}
+@media (min-width: 960px){
+
+    main{
+        background-color: #ccc;
+    }
+    main article{
+        /* encho de 290px (para 3 columnas) */
+    }
+}
+@media (min-width: 1200px){
+
+    main{
+        background-color: #666;
+    }
+}
